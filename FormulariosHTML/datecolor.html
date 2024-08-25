@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario HTML5</title>
+</head>
+<body>
+    <h3 align="center">REGISTRO DE INFORMACION</h3>
+    <form name="formulario">
+        <table align="center" border="1">
+            <tr>
+                <td align="left" width="150">Digite sus Nombres:</td>
+                <td align="left"><input type="text" size="30" autofocus required name="nombres"</td>
+                
+                <td align="left" width="150">Digite sus Apellidos:</td>
+                <td align="left"><input type="text" size="30" placeholder="Escriba sus apellidos" name="apellidos"</td>
+            </tr>
+
+            <tr>
+                <td align="left" width="150">Genero</td>
+                <td>Hombre<input type="radio" name="genero" value="M"><br>
+                Mujer<input type="radio" name="genero" value="F"></td>
+
+                <td align="left" width="150">Que derporte le gusta?</td>
+                <td>
+                    <input type="checkbox" name="aficion1" value="afutbol">Futbol<br>
+                    <input type="checkbox" name="aficion2" value="aatletismo">Atletismo<br>
+                    <input type="checkbox" name="aficion3" value="anatacion">Natacion<br>
+                    <input type="checkbox" name="aficion4" value="abaloncesto">Baloncesto<br>
+                    <input type="checkbox" name="aficion5" value="aninguno">Ninguno<br>
+                </td>
+            </tr>
+            <tr>
+                <td>Su aficion principal</td>
+                <td>
+                    <select name="aficion" size="4">
+                        <option selected>Informatica</option>
+                        <option>Cine</option>
+                        <option>Deporte</option>
+                        <option>Lectura</option>
+                        <option>Musica</option>
+                        <option>Videojuegos</option>
+                    </select>
+                </td>
+
+                <td>Nivel de estudios:</td>
+                <td>
+                    <select name="estudios" size="1">
+                        <option selected>Primaria</option>
+                        <option>Bachillerato</option>
+                        <option>Pregrado</option>
+                        <option>Posgrado</option>
+                    </select>
+                </td>
+                
+            </tr>
+
+            <tr>
+                <td>Otro idioma que domine:</td>
+                <td><input list="idioma">
+                    <datalist id="idioma">
+                        <option value="Ingles"></option>
+                        <option value="Frances"></option>
+                        <option value="Japones"></option>
+                        <option value="Italiano"></option>
+                        <option value="Ninguno"></option>
+                    </datalist>
+                </td>
+                <td>Nivelde Ingles (Min=1 , Max=10)</td>
+                <td><input type="number" name="numero" min="1" max="10" value="1"></td>
+            </tr>
+
+            <tr>
+                <td>Fehca de nacimiento</td>
+                <!--Calendario para que el usuario selecione la fecha-->
+                <td><input type="date" name="Fecha"></td>
+                <td>Color preferido</td>
+                <td><input type="color" name="colores"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
