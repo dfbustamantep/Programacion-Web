@@ -1,0 +1,43 @@
+/*CSS tecnologia para mejorar la presentacion y aspecto de una pagina wbe
+
+Se pueden crear clases y pseudoclases
+
+Prioridad
+1-Estilo especificado dentro de una etiqueta
+2-Estilo especificado en la cabecera del documento
+3-Estilo definido en un archivo independiente
+
+CSS funciona a base de reglas
+    La regla tiene 2 partes
+        -Selector  enlace entre el documento y el estilo,identificando los elementos que se van a ver afectados por esa
+                    declaracion
+        -Declaracion parte de la regla que establece cual sera el efecto,esta compuesta por una propiedad 
+                    y el valor que se le asigne
+
+        Ejemplo
+            p{color:blue;}     p es el selector y {color:blue;} es la navegacion
+            El selector p le dice al navegador que en todas las etiquetas p el texto sera de color azul
+
+    Los selectores pueden estar individualmente o agrupados,para agruparlos cada selector se sepra con una coma (,)
+        Ejemplo
+            h1,h2,h3{color:blue;}
+    
+    Tambien se puede definir varias declaraciones en un selector individual o en selectores agrupados        
+        Ejemplo
+            h1,h2,h3{color:blue;font size:40px:font-family:verdana;}
+            p{color:blue;font size:40px;font-family-verdana}
+
+Las reglas de estilo pueden aplicarse a elementos especificos dentro de etiquetas o a grupos de etiquetas,para ello se 
+utilizan algunos elementos que permiten definir selectores de estilo
+
+    Selectores contextuales Permiten aplicar estilos a elementosd que esten contenidos dentro de etiquetas
+    Selectores de clase Permite definir estilos a grupos de etiquetas
+    Selectores id Permite definir estilos a etiquetas definidas por eel diseñador dentro del documento
+
+
+    Selectores contextuales
+        Define y aplica las propiedades CSS a elementos contenidos dentro de otros elementos HTML
+        Ejemplo
+            todas las etiquetas <strong> que este dentro de las etiquetas <h2> sseran amarrillas
+            
+*/

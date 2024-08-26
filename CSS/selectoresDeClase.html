@@ -1,0 +1,52 @@
+<!--Los selectores de clase permien definir estilos a varias etiquetas que pueden ser de diferente tipo,para ello
+utilizamos el atributo classs
+
+Existen dos tipos de selectores de clase
+    Generales Pueden aplicarse a varias etiquetas
+
+    Especificos Para una sola etiqueta
+--->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo selectores de clase</title>
+    <style>
+        /*
+        <!--Selectores generales se pueden definir de la siguiente forma-->
+        */
+        h1 {
+            color: red;
+            font-size: 30px;
+        }
+        /*Selectores especificos se pueden definir de la siguiente fomra*/
+        p.pequenia {
+            font-size: 10px;
+        }
+
+        p.mediana{
+            font-size: 14px;
+        }
+
+        p.grande{
+            font-size: 20px;
+        }
+        /*Selectores para cualquier etiqueta*/
+        .libre{
+            color:blue;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Texto con selector general</h1>
+    <h1 class="libre">Texto con estilo libre</h1>
+    <p class="libre">Texto......</p>
+    <p class="pequenia">Texto....</p>
+    <p class="mediana">Texto...</p>
+    <p class="grande">Texto....</p>
+</body>
+
+</html>
