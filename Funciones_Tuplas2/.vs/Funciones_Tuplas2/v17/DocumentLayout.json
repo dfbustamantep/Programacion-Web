@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Funciones_Tuplas2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F5A498-25E2-4D94-952D-FF84E63CA73D}|Funciones_Tuplas2.csproj|c:\\users\\vtdan\\documents\\programacion-web\\funciones_tuplas2\\views\\split\\split.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F5A498-25E2-4D94-952D-FF84E63CA73D}|Funciones_Tuplas2.csproj|solutionrelative:views\\split\\split.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F5A498-25E2-4D94-952D-FF84E63CA73D}|Funciones_Tuplas2.csproj|c:\\users\\vtdan\\documents\\programacion-web\\funciones_tuplas2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50F5A498-25E2-4D94-952D-FF84E63CA73D}|Funciones_Tuplas2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F5A498-25E2-4D94-952D-FF84E63CA73D}|Funciones_Tuplas2.csproj|c:\\users\\vtdan\\documents\\programacion-web\\funciones_tuplas2\\controllers\\splitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F5A498-25E2-4D94-952D-FF84E63CA73D}|Funciones_Tuplas2.csproj|solutionrelative:controllers\\splitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Funciones_Tuplas2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Funciones_Tuplas2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:26:54.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Split.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Funciones_Tuplas2\\Views\\Split\\Split.cshtml",
+              "RelativeDocumentMoniker": "Views\\Split\\Split.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Funciones_Tuplas2\\Views\\Split\\Split.cshtml",
+              "RelativeToolTip": "Views\\Split\\Split.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T13:45:01.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SplitController.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Funciones_Tuplas2\\Controllers\\SplitController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SplitController.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Funciones_Tuplas2\\Controllers\\SplitController.cs",
+              "RelativeToolTip": "Controllers\\SplitController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:30:57.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
