@@ -1,0 +1,58 @@
+﻿@model List<Colecciones2.Models.Productos>
+<div class="mx-auto" style="width:40%">
+    <form asp-action="AgregarProducto" method="post">
+        <fieldset class="form-group border p-3">
+            <legend style="text-align:center">Venta de productos</legend>
+            <hr />
+
+            <div class="m-4">
+                <label for="nombre">Producto:</label>
+                <select id="nombre" name="nombre">
+                    <option value="Uvas">Uvas</option>
+                    <option value="Piñas">Piñas</option>
+                    <option value="Kiwis">Kiwis</option>
+                    <option value="Melones">Melones</option>
+                    <option value="Naranja">Naranja</option>
+                    
+                </select>
+            </div>
+
+            <div class="mb-4">
+                <label for="cantidad">Cantidad</label>
+                <input type="number" id="cantidad" name="cantidad" required />
+            </div>
+
+            <div style="justify-content:center;display:flex">
+                <button type="submit">Agregar producto</button>
+            </div>
+        </fieldset>
+    </form>
+
+    <h4 style="text-align:center">Productos vendidos</h4>
+    @if (@ViewBag.TotalProductos > 0)
+    {
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Producto</th>
+                    <th>Cantidad</th>
+                    <th>Precio</th>
+                    <th>Subtotal</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var producto in Model)
+                {
+                    <tr>
+                        <td>@producto.Nombre</td>
+                        <td>@producto.Cantidad</td>
+                        <td>@producto.Precio.ToString("N2")</td>
+                        <td>@(producto.Subtotal.ToString("N2"))</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+       <h3>Total Cantidad: @ViewBag.TotalProductos</h3>
+    }
+    
+</div>

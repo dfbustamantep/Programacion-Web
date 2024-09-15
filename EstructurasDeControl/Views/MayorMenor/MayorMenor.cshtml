@@ -1,0 +1,39 @@
+﻿<!--Solo captura int-->
+@model int
+<div class="text-center">
+    <h1 class="display-6">Mayor - Menor - tres numeros</h1>
+    <br/>
+    <!--Creamos un formulario,llamamos al controlador,llama al metodo-->
+    <form asp-controller="MayorMenor" asp-action="EncontrarMayorMenor" method="post">
+        <!--Label texto-->
+        <label for="primero">Digite primer número:</label>
+        <!--Requiered obliga a que se ponga algo-->
+        <input type="number" id="primero" name="primero" required />
+        <br/>
+
+        <label for="segundo">Digite segundo número:</label>
+        <input type="number" id="segundo" name="segundo" required />
+        <br/>
+
+        <label for="tercero">Digite segundo número:</label>
+        <input type="number" id="tercero" name="tercero" required />
+        <br/>
+        <br/>
+        <!--Objeto de tipo button de type envio,class btn de tipo primario de bootstrap-->
+        <button type="submit" class="btn btn-primary">Mayor/Menor</button>
+    </form>
+    <br/>
+    <div>
+        <p><h4><i>@ViewBag.Numeros</i></h4></p>
+        <!--Cada vez que encontremos un arroba estamos trabajando con razorPage-->
+        @if (ViewBag.MayorNumero != null && ViewBag.MenorNumero != null)
+        {
+            <p><h5>El numero mayor es: @ViewBag.MayorNumero</h5></p>
+            <p><h5>El numero menor es: @ViewBag.MenorNumero</h5></p>
+        }
+
+    </div>
+
+</div>
+
+

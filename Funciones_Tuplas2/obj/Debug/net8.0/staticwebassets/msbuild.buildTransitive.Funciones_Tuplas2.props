@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Funciones_Tuplas2.props" />
+</Project>

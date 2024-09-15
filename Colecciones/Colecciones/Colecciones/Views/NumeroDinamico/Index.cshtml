@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Colecciones.Models.Dato>
+<div class="mx-auto" style="width:40%">
+    <form method="post" asp-action="CapturarNumero">
+        <fieldset class="form-group border p-3">
+            <legend style="text-align:center">Capturar y mostrar números</legend>
+            <hr />
+            <div class="mb-4">
+                <label for="numero">Numero</label>
+                <input type="number" name="numero" required/>
+            </div>
+            <div style="justify-content:center;display:flex">
+                <button type="submit">Capturar</button>
+            </div>
+        </fieldset>
+    </form>
+    <fieldset class="form-group border p-3">
+        <ul>
+            @foreach(var numero in ViewBag.Numeros)
+            {
+                <li>@($"{numero.Numero}")</li>
+            }
+        </ul>
+    </fieldset>
+</div>

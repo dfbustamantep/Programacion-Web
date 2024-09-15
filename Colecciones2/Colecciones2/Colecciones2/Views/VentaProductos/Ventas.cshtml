@@ -1,0 +1,61 @@
+﻿@model Colecciones2.Models.DatosProductos
+<div class="mx-auto" style="width:40%">
+    <form asp-controller="VentaProductos" asp-action="AgregarProducto">
+        <fieldset class="form-group border p-3">
+            <legend style="text-align:center">Venta de productos</legend>
+            <hr />
+
+            <div class="m-4">
+                <label for="producto">Selecciona un producto:</label>
+                <select name="producto" required>
+                    <option value="Ollas">Ollas</option>
+                    <option value="Licuadoras">Licuadoras</option>
+                    <option value="Batidoras">Batidoras</option>
+                    <option value="Calentadores">Calentadores</option>
+                    <option value="Planchas">Planchas</option>
+                    <option value="Cacerolas">Cacerolas</option>
+                </select>
+            </div>
+
+            <div class="mb-4">
+                <label>Digite cantidad</label>
+                <input type="number" name="cantidad" placeholder="Digite cantidad"/>
+            </div>
+
+            <div class="mb-4">
+                <label>Digite precio</label>
+                <input type="number" name="precio" placeholder="Digite precio" />
+            </div>
+            
+            <div style="justify-content:center;display:flex">
+                <button type ="submit">Adicionar producto</button>
+            </div>
+        </fieldset>
+    </form>
+    <h4 style="text-align:center">Productos vendidos</h4>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Producto</th>
+                <th>Cantidad</th>
+                <th>Precio</th>
+                <th>Subtotal</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(DatosProductos elemento in ViewBag.Venta)
+            {
+                <tr>
+                    <td>@elemento.producto</td>
+                    <td>@elemento.cantidad</td>
+                    <td>@elemento.precio</td>
+                    <td>@(elemento.precio*elemento.cantidad)</td>
+                </tr>    
+            }
+        </tbody>
+    </table>
+    @if (ViewBag.TotalVenta > 0)
+    {
+        <p>Total venta:@ViewBag.TotalVenta</p>    
+    }
+</div>

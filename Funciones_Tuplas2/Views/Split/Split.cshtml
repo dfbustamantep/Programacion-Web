@@ -1,0 +1,114 @@
+﻿@model ModeloTexto
+<div class="mx-auto" style="width:40%">
+	<form asp-controller="Split" asp-action="funcionSplit">
+		<fieldset class="form-group border p-3">
+			<legend style="text-align:center">Funcion Split</legend>
+			<hr />
+			<div class="mb-4">
+				<label>Digite una oracion:</label>
+				<input type="text" asp-for="texto" name="texto" placeholder="Digite una oracion" />
+			</div>
+			<div style="justify-content:center;display:flex">
+				<button type="submit" class="btn btn-outline-primary" name="boton" value="btnpalabras">Palabras x filas</button>
+				<button type="submit" class="btn btn-outline-primary" name="boton" value="btncontieneo">Contiene letra O</button>
+				<button type="submit" class="btn btn-outline-primary" name="boton" value="btnordenadas">Palabras Alfabeticamente</button>
+				<button type="submit" class="btn btn-outline-primary" name="boton" value="btnterceran">Tercera letra N</button>
+				<button type="submit" class="btn btn-outline-primary" name="boton" value="btninvertida">Invertir palabras</button>
+				<button type="submit" class="btn btn-outline-primary" name="boton" value="btnempieces">Empiecen con S</button>
+			</div>
+
+		</fieldset>
+	</form>
+	@if (ViewBag.Informacion == "btnpalabras")
+	{
+		<fieldset class="form-group border p-3">
+			<select size="5" style="width:70px">
+				@foreach(var elemento in ViewBag.Separar)
+				{
+					<option><h5 style="text-align:center"><span style="color:red;">@elemento</span></h5></option>
+				}
+			</select>
+		</fieldset>	
+	}
+
+	@if (ViewBag.Informacion == "btnordenadas")
+	{
+		String[] Ordenadas = ViewBag.Separar;
+		Array.Sort(Ordenadas);
+		<fieldset class="form-group border p-3">
+			<select size="5" style="width:70px">
+				@foreach (var elemento in Ordenadas)
+				{
+					<option><h5 style="text-align:center"><span style="color:red;">@elemento</span></h5></option>
+				}
+			</select>
+		</fieldset>
+	}
+
+	@if (ViewBag.Informacion == "btncontieneo")
+	{
+		<fieldset class="form-group border p-3">
+			<select size="5">
+				@foreach (var elemento in ViewBag.Separar)
+				{
+					@if (elemento.Contains("o"))
+					{
+						<option><h5 style="text-align:center"><span style="color:red;">@elemento</span></h5></option>
+					}
+					
+				}
+			</select>
+		</fieldset>
+	}
+
+	@if (ViewBag.Informacion == "btnempieces")
+	{
+		<fieldset class="form-group border p-3">
+			<select size="5">
+				@foreach (var elemento in ViewBag.Separar)
+				{
+					int posicion = -1;
+					posicion = elemento.IndexOf("s");
+
+					@if (posicion>=0)
+					{
+						<option><h5 style="text-align:center"><span style="color:red;">@elemento</span></h5></option>
+					}
+
+				}
+			</select>
+		</fieldset>
+	}
+
+	@if (ViewBag.Informacion == "btnterceran")
+	{
+		<fieldset class="form-group border p-3">
+			<select size="5" style="margin:auto">
+				@foreach (string elemento in ViewBag.Separar)
+				{
+					@if(elemento.Length>2)
+					@if (elemento.Substring(2,1).Equals("n"))
+					{
+						<option><h5 style="text-align:center"><span style="color:red;">@elemento</span></h5></option>
+					}
+
+				}
+			</select>
+		</fieldset>
+	}
+
+	@if (ViewBag.Informacion == "btninvertida")
+	{
+		<fieldset class="form-group border p-3">
+			<select size="5">
+				@foreach (string elemento in ViewBag.Separar)
+				{
+					string invertir = new string(elemento.Reverse().ToArray());
+					<option><h5 style="text-align:center"><span style="color:red;">@invertir</span></h5></option>
+						
+				}
+			</select>
+		</fieldset>
+	}
+</div>
+

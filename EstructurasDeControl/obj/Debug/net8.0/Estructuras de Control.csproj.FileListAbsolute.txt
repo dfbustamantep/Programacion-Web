@@ -1,0 +1,61 @@
+C:\Users\Estudiante\source\repos\Estructuras de Control\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Estudiante\source\repos\Estructuras de Control\bin\Debug\net8.0\appsettings.json
+C:\Users\Estudiante\source\repos\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.staticwebassets.runtime.json
+C:\Users\Estudiante\source\repos\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.exe
+C:\Users\Estudiante\source\repos\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.deps.json
+C:\Users\Estudiante\source\repos\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.runtimeconfig.json
+C:\Users\Estudiante\source\repos\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.dll
+C:\Users\Estudiante\source\repos\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.pdb
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.AssemblyInfo.cs
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.RazorAssemblyInfo.cache
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.RazorAssemblyInfo.cs
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\staticwebassets\msbuild.Estructuras de Control.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\staticwebassets\msbuild.build.Estructuras de Control.props
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Estructuras de Control.props
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Estructuras de Control.props
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\scopedcss\bundle\Estructuras de Control.styles.css
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\scopedcss\projectbundle\Estructuras de Control.bundle.scp.css
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.dll
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\refint\Estructuras de Control.dll
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.pdb
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.genruntimeconfig.cache
+C:\Users\Estudiante\source\repos\Estructuras de Control\obj\Debug\net8.0\ref\Estructuras de Control.dll
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\bin\Debug\net8.0\appsettings.json
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.staticwebassets.runtime.json
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.exe
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.deps.json
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.runtimeconfig.json
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.dll
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\bin\Debug\net8.0\Estructuras de Control.pdb
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.AssemblyInfoInputs.cache
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.AssemblyInfo.cs
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.csproj.CoreCompileInputs.cache
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.RazorAssemblyInfo.cache
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.RazorAssemblyInfo.cs
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.sourcelink.json
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\staticwebassets\msbuild.Estructuras de Control.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\staticwebassets\msbuild.build.Estructuras de Control.props
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Estructuras de Control.props
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Estructuras de Control.props
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\scopedcss\bundle\Estructuras de Control.styles.css
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\scopedcss\projectbundle\Estructuras de Control.bundle.scp.css
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.dll
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\refint\Estructuras de Control.dll
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.pdb
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\Estructuras de Control.genruntimeconfig.cache
+C:\Users\vtdan\Documents\Programacion-Web\Estructuras de Control\obj\Debug\net8.0\ref\Estructuras de Control.dll

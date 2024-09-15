@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Funciones_Tuplas2.props" />
+</Project>

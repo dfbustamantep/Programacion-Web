@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Colecciones.Models.Datos>
+
+<div class="mx-auto" style="width:40%">
+    <form method="post" asp-action="CapturarNombreNumero">
+        <fieldset class="form-group border p-3">
+            <legend style="text-align:center">Capturar Nombre/Numero</legend>
+            <hr />
+
+            <div class="mb-4">
+                <label for="nombre">Nombre</label>
+                <input type="text" name="nombre" requiered/>
+            </div>
+
+            <div class="mb-4">
+                <label for="nombre">Numero</label>
+                <input type="number" name="numero" requiered />
+            </div>
+
+            <div style="justify-content:center;display:flex">
+                <button type="submit">Capturar</button>
+            </div>
+        </fieldset>
+    </form>
+    @if (@ViewBag.SumaNumeros>0)
+    {
+        <fieldset class="form-group border p-3">
+            <ul>
+                @foreach (var dato in ViewBag.Informacion)
+                {
+                    <li>@($"{dato.Nombre} - {dato.Numero}")</li>
+                }
+            </ul>
+            <h4>La sumatoria de los numeros es:@ViewBag.SumaNumeros</h4>
+        </fieldset>
+        
+    }
+</div>
