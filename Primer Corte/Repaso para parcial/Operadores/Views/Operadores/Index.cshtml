@@ -1,0 +1,37 @@
+﻿<!--Directiva model para cargar la clase ModeloOperadores-->
+@model Operadores.Models.ModeloOperadores
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Operadores</title>
+    </head>
+    <body>
+        <h3>Ejemplo operadores</h3>
+        <!--Llamamos al controlador Opeeadores y como accion ejecutamos la funcion Index usando el metodo post-->
+        <form asp-action="Index" method="post">
+            <div>
+                <label for="Primero">Digite primer numero</label>
+                <input asp-for="Primero" id="Primero"/>
+            </div>
+        <div>
+            <label for="Segundo">Digite segundo numero</label>
+            <input asp-for="Segundo" id="Segundo" />
+        </div>
+        <button type="submit">Verificar</button>
+        </form>
+    @if(Model.Primero != 0 || Model.Segundo != 0)
+    {
+        <div>
+            <h2>Resultados:</h2>
+            <p>La suma es: @ViewBag.Suma</p>
+            <p>La resta es: @ViewBag.Resta</p>
+            <p>La multiplicacion es: @ViewBag.Multiplicacion</p>
+            <p>
+                La division es: @(Model.Primero != 0 ? ViewBag.Division : "Division por cero no permitida")
+            </p>
+            <p>Incremento del primer numero:@ViewBag.Incremento</p>
+            <p>Decremento del segundo numero:@ViewBag.Decremento</p>
+        </div>
+    }
+</body>
+    </html>

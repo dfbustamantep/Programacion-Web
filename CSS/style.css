@@ -39,5 +39,12 @@ utilizan algunos elementos que permiten definir selectores de estilo
         Define y aplica las propiedades CSS a elementos contenidos dentro de otros elementos HTML
         Ejemplo
             todas las etiquetas <strong> que este dentro de las etiquetas <h2> sseran amarrillas
-            
+
+Medidas en CSS
+    Las medidas que se utilizan en las hojas de estilo facilitan la ubicacion o dimension de u elemento HTML,se utlizian medidas de longitud que pueden ser absolutas o relativas
+
+    Medidas absolutas Aquellas que se definen de forma excata como centimentros o pulgadas
+    
+    Medidas relativas Se utilizan para definir las dimensiones en relacion a otra propiedad o elemento,estas pueden mejorar la apariencia de salida entre un dispositivo y otro ,em tamanio de una m en la fuente actual aplicada,px pixeles,% porcentaje
+pagina 6
 */

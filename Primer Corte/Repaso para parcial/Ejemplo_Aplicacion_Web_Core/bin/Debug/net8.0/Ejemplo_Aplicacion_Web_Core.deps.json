@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejemplo_Aplicacion_Web_Core/1.0.0": {
+        "runtime": {
+          "Ejemplo_Aplicacion_Web_Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo_Aplicacion_Web_Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

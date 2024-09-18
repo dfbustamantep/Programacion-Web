@@ -1,0 +1,27 @@
+<!--Sirven para aplicar estilos a partes mas especificas dentro de una etiqueta,Por ejemplo, en la etiqueta párrafo
+<p> se puede definir el estilo para la primera letra del párrafo y para la primera línea-->
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>PseudoEelementos</title>
+        <style>
+            p:first-letter{
+                font-size: 200%;color:red;
+            }
+
+            p:first-line{
+                text-decoration: underline;color: blue;
+            }
+
+            p.nota::before{content: "Nota: ";}
+            p.nota::after{content: "Final: ";}
+        </style>
+    </head>
+    <body>
+        <p>Esxte es un ejemplo de un parrafo para probar pseudoelementos con CSS</p>
+        <p id="nota">5</p>
+    </body>
+    </html>

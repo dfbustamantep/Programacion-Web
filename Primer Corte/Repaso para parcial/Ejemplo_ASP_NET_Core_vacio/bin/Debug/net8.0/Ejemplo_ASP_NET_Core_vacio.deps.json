@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejemplo_ASP_NET_Core_vacio/1.0.0": {
+        "runtime": {
+          "Ejemplo_ASP_NET_Core_vacio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo_ASP_NET_Core_vacio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
