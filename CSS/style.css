@@ -46,5 +46,62 @@ Medidas en CSS
     Medidas absolutas Aquellas que se definen de forma excata como centimentros o pulgadas
     
     Medidas relativas Se utilizan para definir las dimensiones en relacion a otra propiedad o elemento,estas pueden mejorar la apariencia de salida entre un dispositivo y otro ,em tamanio de una m en la fuente actual aplicada,px pixeles,% porcentaje
-pagina 6
+
+Modelo de caja
+    Ancho widht 
+    Alto height
+    Contenido content
+    Relleno padding
+    Borde border
+    Margen margin
+
+Propiedades
+    Tipo de fuente y familia
+        font-size tamño de texto de acierto a una medida especifica
+            {font-size:12pt;}
+        
+        font-family Establece la fuente de texto,se puede establecer una o varias fuentes alternativas
+            {font-family:Arial;}
+            {font-family:Arial,Helvetica;}
+
+        font-weight Establece el espesor de la fuente (extra-light,light,demi-light,medium,demi-bold,bold y extra-bold)
+            {font-weight:medium}
+        
+        font-style:establece la fuente como cursiva
+            {font-style:italic;}
+
+    Formato de fondo
+        background:DEstaca secciones de una pagina,estableciendo un color o una imagen de fondo
+            {background:red}
+        
+        background-color color de fondo en formado hexadecimal
+            {background-color:#FF00000}
+        
+    Formato de textoEstablecen caracteristicas generales sobre el texto tales como alineacion,decoracion y color
+        text-decoration: Permite remarcar el texto
+            {text-decoration:underline}
+
+        text-align: Permite justificar los elementos HTML a la izquierda,centro o derecha
+            {text-align:left}
+            {text-align:center}
+            {text-align:right}
+
+    Formato de listas: Permiten establecer las caracteristicas de los elementos de lista
+        list-style-type:Establece el estilo de numeracion de la lista,puede ser
+            disc circulo relleno
+            circle circulo hueco
+            square cuadrado
+            decimal numeros
+            lowe-roman numeros romanos en minuscula
+            upper-roman numeros romanos en mayuscula
+            lower-alpha letras minusculas
+            upper-alpha letras mayusculas
+            none ningun marcador
+                {list-style-type:disk;}
+
+
+
+Agregar estilos CSS a una pagina web    
+    Estilo en linea Forma mas sencilla pero no recomedad para aplicar estilo a una etiqueta HTML,ya que agrega el estilo dentro del documento HTML
+        <nombre_etiqueta style="declaraciones css">            
 */

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hojas de estilo en cascada</title>
+    <link rel="stylesheet" href="estilos.css" type="text/css">
+</head>
+<body>
+    <h1>Informacion</h1>
+    <div id="primero">
+        <fieldset>
+            <legend>Personal</legend>
+            Nombre: <input type="text" name="nombre" autofocus><br>
+            Fecha de cumpleaños: <input type="date">
+        </fieldset>
+    </div>
+    <div id="segundo">
+        Color preferido <input type="color"><br>
+        Nivel de estudios: <input list="estudios">
+        <datalist id="estudios">
+            <option value="Primaria"></option>
+            <option value="Bachillerato"></option>
+            <option value="Pregrado"></option>
+            <option value="Posgrado"></option>
+            <option value="Doctorado"></option>
+        </datalist>
+    </div>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoja de Estilo en cascada en HEAD</title>
+    <style>
+        body{background-color: #9fc;}
+        h1{color:blue}
+        #primero{background-color: #ffc;height: 100px;}
+        fieldset{float: left;width: 30%;}
+        input:focus{border: 2px solid #000;}
+        #segundo{background-color: #CF0;border-radius: 15px;height: 50px;font-family: Arial;font-weight: bold;}
+    </style>
+</head>
+<body>
+    <h1>Informacion</h1>
+    <div id="primero">
+        <fieldset>
+            <legend>Personal</legend>
+            Nombre: <input type="text" name="nombre" autofocus><br>
+            Fecha de cumpleaños: <input type="date">
+        </fieldset>
+    </div>
+    <div id="segundo">
+        Color preferido: <input type="color"><br>
+        Nivel de estudios: <input list="estudios">
+        <datalist id="estudios">
+            <option value="Primaria"></option>
+            <option value="Bachillerato"></option>
+            <option value="Pregrado"></option>
+            <option value="Posgrado"></option>
+            <option value="Doctorado"></option>
+        </datalist>
+    </div>
+</body>
+</html>

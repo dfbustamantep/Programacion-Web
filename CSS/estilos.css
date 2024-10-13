@@ -1,0 +1,6 @@
+body{background-color: #9fc;}
+h1{color: blue;}
+#primero{background-color: #ffc;height: 100px;}
+fieldset{float:left;width: 30%;}
+input:focus{border:2px solid #000}
+#segundo{background-color: #CF0;border-radius:15px ;height: 50px;font-family:Arial;font-weight: bold;}
