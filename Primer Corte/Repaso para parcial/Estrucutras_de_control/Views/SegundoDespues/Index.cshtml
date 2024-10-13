@@ -1,0 +1,39 @@
+﻿@model Estrucutras_de_control.Models.ModeloNumeros
+<div class="mx-auto" style="width:40%">
+	<form asp-controller="SegundoDespues" asp-action="UnSegundoDespues" method="post">
+	<fieldset class="form-group border p-3">
+		<legend style="text-align:center">Horas-Minutos-Segundos</legend><hr />
+		<div class="mb-4">
+			<label>Digite Horas:</label>
+			<input type="number" asp-for="horas" name="horas" min="0" max="23" placeholder="Digite horas"></input>
+		</div>
+
+		<div class="mb-4">
+			<label>Digite minutos:</label>
+			<input type="number" asp-for="minutos" name="minutos" min="0" max="59" placeholder="Digite minutos"></input>
+		</div>
+
+		<div class="mb-4">
+			<label>Digite segundos:</label>
+			<input type="number" asp-for="segundos" name="segundos" min="0" max="59" placeholder="Digite segundos"></input>
+		</div>
+
+		<div style="justify-content:center;display:flex">
+			<button type="submit">Un segundo despues</button>
+		</div>
+	</fieldset>
+	</form>
+
+	<div>
+		@if (ViewBag.Horas >= 0)
+		{
+			<fieldset class="form-group border p-3">
+				<legend style="text-align:center">Un segundo despues</legend>
+				<hr />
+				<h4>Horas:@ViewBag.Horas</h4>
+				<h4>Minutos:@ViewBag.Minutos</h4>
+				<h4>Segundos:@ViewBag.Segundos</h4>
+			</fieldset>
+		}
+	</div>
+</div>

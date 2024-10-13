@@ -1,0 +1,36 @@
+﻿@model POO.Models.Caja
+<div class="mx-auto" style="width:40%">
+	<form asp-controller="Constructores" asp-action="CalcularVolumen" method="post">
+		<fieldset class="form-group border p-3">
+			<legend style="text-align:center">Volumen de una Caja</legend>
+			<hr/>
+			<div class="form-group">
+				<label asp-for="Alto"></label>
+				<input asp-for="Alto" class="form-control"/>
+				<span asp-validation-for="Alto" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<label asp-for="Ancho"></label>
+				<input asp-for="Ancho" class="form-control" />
+				<span asp-validation-for="Ancho" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<label asp-for="Profundidad"></label>
+				<input asp-for="Profundidad" class="form-control" />
+				<span asp-validation-for="Profundidad" class="text-danger"></span>
+			</div>
+
+			<div style="justify-content:center;display:flex">
+				<button type="submit" name="boton" class="btn btn-primary" value="cp">Constructor con parametros</button>
+				<button type="submit" name="boton" class="btn btn-primary" value="sp">Constructor sin parametros</button>
+			</div>
+		</fieldset>
+	</form>
+	@if(ViewBag.Volumen != null)
+	{
+		<h4 style="text-align:center">Volumen de la caja: @ViewBag.Volumen</h4>
+	}
+</div>
+

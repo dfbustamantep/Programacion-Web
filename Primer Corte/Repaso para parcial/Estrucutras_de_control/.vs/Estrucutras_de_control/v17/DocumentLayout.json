@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|c:\\users\\vtdan\\documents\\programacion-web\\primer corte\\repaso para parcial\\estrucutras_de_control\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|c:\\users\\vtdan\\documents\\programacion-web\\primer corte\\repaso para parcial\\estrucutras_de_control\\views\\segundodespues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|solutionrelative:views\\segundodespues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|c:\\users\\vtdan\\documents\\programacion-web\\primer corte\\repaso para parcial\\estrucutras_de_control\\controllers\\segundodespuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|solutionrelative:controllers\\segundodespuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|c:\\users\\vtdan\\documents\\programacion-web\\primer corte\\repaso para parcial\\estrucutras_de_control\\models\\modelonumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|solutionrelative:models\\modelonumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|c:\\users\\vtdan\\documents\\programacion-web\\primer corte\\repaso para parcial\\estrucutras_de_control\\views\\mayormenor\\mayormenor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|solutionrelative:views\\mayormenor\\mayormenor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|c:\\users\\vtdan\\documents\\programacion-web\\primer corte\\repaso para parcial\\estrucutras_de_control\\controllers\\mayormenorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E8371A-03E3-4086-9B90-44D8ED6E1C78}|Estrucutras_de_control.csproj|solutionrelative:controllers\\mayormenorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Views\\SegundoDespues\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SegundoDespues\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Views\\SegundoDespues\\Index.cshtml",
+              "RelativeToolTip": "Views\\SegundoDespues\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T01:35:22.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SegundoDespuesController.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Controllers\\SegundoDespuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SegundoDespuesController.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Controllers\\SegundoDespuesController.cs",
+              "RelativeToolTip": "Controllers\\SegundoDespuesController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:29:41.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModeloNumeros.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Models\\ModeloNumeros.cs",
+              "RelativeDocumentMoniker": "Models\\ModeloNumeros.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Models\\ModeloNumeros.cs",
+              "RelativeToolTip": "Models\\ModeloNumeros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:27:57.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T01:22:21.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MayorMenor.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Views\\MayorMenor\\MayorMenor.cshtml",
+              "RelativeDocumentMoniker": "Views\\MayorMenor\\MayorMenor.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Views\\MayorMenor\\MayorMenor.cshtml",
+              "RelativeToolTip": "Views\\MayorMenor\\MayorMenor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T01:10:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MayorMenorController.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Controllers\\MayorMenorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MayorMenorController.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Primer Corte\\Repaso para parcial\\Estrucutras_de_control\\Controllers\\MayorMenorController.cs",
+              "RelativeToolTip": "Controllers\\MayorMenorController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAD4vyQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T01:01:31.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
