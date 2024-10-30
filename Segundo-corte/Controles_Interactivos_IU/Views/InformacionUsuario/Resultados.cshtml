@@ -1,0 +1,62 @@
+﻿@model ModeloDatos
+<div class="mx-auto" style="width:60%">
+	<h4 style="text-align:center">Resultados encuesta</h4>
+	<table class="table table-bordered">
+		<tr>
+			<th>Nombres:</th>
+			<td>@Model.Nombres</td>
+		</tr>
+		
+		<tr>
+			<th>Genero:</th>
+			<td>@Model.Apellidos</td>
+		</tr>
+
+		<tr>
+			<th>Deportes Favoritos:</th>
+			<td>@string.Join(",",Model.Deportes)</td>
+		</tr>
+
+		<tr>
+			<th>Aficion Principal:</th>
+			<td>@Model.Aficion</td>
+		</tr>
+
+		<tr>
+			<th>Nivel de Estudios:</th>
+			<td>@Model.Estudios</td>
+		</tr>
+
+		<tr>
+			<th>Nivel de Ingles:</th>
+			<td>@Model.Ingles</td>
+		</tr>
+
+
+		<tr>
+			<th>Otro idioma que domine:</th>
+			<td>@Model.Idioma</td>
+		</tr>
+
+		<tr>
+			<th>Habilidad y calificacion (0-10):</th>
+			<td>
+				<ul>
+					@foreach(var habilidad in Model.Habilidades){
+						<li>@habilidad.NombreHabilidad=>(@habilidad.ValorHabilidad)</li>
+					}
+				</ul>
+			</td>
+		</tr>
+
+		<tr>
+			<th>Fecha de nacimiento:</th>
+			<td>@Model.FechaNacimiento.ToShortDateString()</td>
+		</tr>
+
+		<tr>
+			<th>Color preferido:</th>
+			<td>@Model.Comentarios</td>
+		</tr>
+	</table>
+</div>

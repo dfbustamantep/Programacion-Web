@@ -1,0 +1,112 @@
+﻿@model ModeloDatos
+<div class="mx-auto" style="width:60%">
+	<h3 style="text-align:center">Registro de Información</h3>
+	<form asp-action="Resultados" method="post">
+		<table class="table table-bordered">
+			<tbody>
+				<tr>
+					<td><label for="Nombres">Nombres:</label></td>
+					<td>
+						<input type="text" class="form-control" id="Nombres" name="Nombres"
+							   autofocus required>
+					</td>
+					<td><label for="Apellidos">Apellidos:</label></td>
+					<td><input type="text" class="form-control" id="Apellidos" name="Apellidos" required></td>
+				</tr>
+				<tr>
+					<td><label>Género:</label></td>
+					<td>
+						<label for="Genero">Hombre:</label>
+						<input type=radio name="genero" value="Masculino"><br>
+						<label for="Genero">Mujer: </label>
+						<input type=radio name="genero" value="Femenino">
+					</td>
+					<td><label for="Deportes">Deportes preferidos:</label></td>
+					<td>
+						<input type="checkbox" name="Deportes" value="Futbol">Futbol<br>
+						<input type="checkbox" name="Deportes" value="Atletismo">Atletismo<br>
+						<input type="checkbox" name="Deportes" value="Natación">Natación<br>
+						<input type="checkbox" name="Deportes" value="Baloncesto">Baloncesto<br>
+						<input type="checkbox" name="Deportes" value="Ninguno">Ninguno<br>
+					</td>
+				</tr>
+				<tr>
+					<td><label for="Aficion">Afición Principal:</label></td>
+					<td>
+						<select id="Aficion" name="Aficion" size="5" required>
+							<option value="Dormir">Dormir</option>
+							<option value="Cantar">Cantar</option>
+							<option value="Bailar">Bailar</option>
+							<option value="Leer">Leer</option>
+							<option value="Ninguna">Ninguna</option>
+						</select>
+					</td>
+					<td><label for="Estudios">Nivel de Estudios:</label></td>
+					<td>
+						<select id="Estudios" name="Estudios" required>
+							<option value="Primaria">Primaria</option>
+							<option value="Bachillerato">Bachillerato</option>
+							<option value="Pregrado">Pregrado</option>
+							<option value="Posgrado">Posgrado</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td><label for="Ingles">Nivel de Inglés (1 a 10):</label></td>
+					<td>
+						<input type="number" class="form-control" id="Ingles" name="Ingles" min="1" max="10"
+							   required />
+					</td>
+					<td><label for="OtroIdioma">Otro Idioma que domine:</label></td>
+					<td>
+						<input list="idiomas" class="form-control" id="Idioma" name="Idioma" required />
+						<datalist id="idiomas">
+							<option value="Frances"></option>
+							<option value="Japones"></option>
+							<option value="Italiano"></option>
+							<option value="Ninguno"></option>
+						</datalist>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">Calificar habilidades personales (0-10)</td>
+					<td colspan="2">
+						@for (int i = 0; i < Model.Habilidades.Count; i++)
+						{
+							<div>
+								<label>@Model.Habilidades[i].NombreHabilidad:</label>
+								<input type="hidden" name="Habilidades[@i].NombreHabilidad"
+									   value="@Model.Habilidades[i].NombreHabilidad" />
+								<input type="number" name="Habilidades[@i].ValorHabilidad" min="0" max="10" />
+							</div>
+						}
+					</td>
+				</tr>
+				<tr>
+					<td><label for="FechaNacimiento">Fecha de Nacimiento:</label></td>
+					<td>
+						<input type="date" class="form-control" id="FechaNacimiento" name="FechaNacimiento"
+							   required />
+					</td>
+					<td><label for="Color">Color Preferido:</label></td>
+					<td> <input type="color" class="form-control" id="Color" name="Color" required /></td>
+				</tr>
+				<tr>
+					<td><label for="Comentarios">Comentarios</label></td>
+					<td colspan="3">
+						<textarea class="form-control" id="Comentarios" name="Comentarios" rows="3"
+								  required></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="4">
+						<div style="justify-content:center;display:flex">
+							<button type="submit" class="btn btn-primary">Enviar</button>
+							<button type="reset" class="btn btn-warning">Restablecer</button>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</form>
+</div>

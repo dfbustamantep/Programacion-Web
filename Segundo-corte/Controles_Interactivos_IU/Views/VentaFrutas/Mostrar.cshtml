@@ -1,0 +1,49 @@
+﻿@model ModeloFrutas
+<div class="mx-auto" style="width:60%">
+	<h4 style="text-align:center">Datos del Pedido</h4>
+	<table class="table table-bordered">
+		<tr>
+			<th>Identificación del Cliente:</th>
+			<td>@Model.Identificacion</td>
+		</tr>
+		<tr>
+			<th>Forma de pago:</th>
+			<td>@Model.Pago</td>
+		</tr>
+		@{
+			double totalventa = 0;
+		}
+		<tr>
+			<th>Frutas seleccionadas</th>
+			<td>
+				<ul>
+					@foreach (var frutica in Model.Frutas)
+					{
+						@if (@frutica.CantidadFruta > 0)
+						{
+
+							<li>@frutica.NombreFruta==>(@frutica.CantidadFruta)==>(@frutica.ValorFruta.ToString("N2"))</li>
+							totalventa = totalventa + (@frutica.CantidadFruta * @frutica.ValorFruta);
+						}
+					}
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Total Venta:</td>
+			<td>@totalventa.ToString("N2")</td>
+		</tr>
+		@{
+			double descuento = totalventa * (double)@ViewBag.Descuento;
+			double neto = totalventa - descuento;
+		}
+		<tr>
+			<td>Descuento:</td>
+			<td>@descuento.ToString("N2")</td>
+		</tr>
+		<tr>
+			<td>Neto a Pagar:</td>
+			<td>@neto.ToString("N2")</td>
+		</tr>
+	</table>
+</div>

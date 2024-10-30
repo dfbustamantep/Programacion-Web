@@ -1,0 +1,51 @@
+﻿@model ModeloFrutas
+<div class="mx-auto" style="width:60%">
+	<h3 style="text-align:center">Registro de Venta</h3>
+	<form asp-action="Mostrar" method="post">
+		<table class="table table-bordered">
+			<tbody>
+				<tr>
+					<td><label for="Identificacion">Identificación Cliente:</label></td>
+					<td>
+						<input type="text" class="form-control" id="Identificacion" name="Identificacion"
+							   autofocus required>
+					</td>
+				</tr>
+				<tr>
+					<td><label>Forma de Pago:</label></td>
+					<td>
+						<label for="Pago">Efectivo</label>
+						<input type=radio name="pago" value="Efectivo">
+						<label for="Pago">Cheque</label>
+						<input type=radio name="pago" value="Cheque">
+						<label for="Pago">Credito</label>
+						<input type=radio name="pago" value="Credito">
+					</td>
+				</tr>
+				<tr>
+					<td>Digite la cantidad en la fruta deseada:</td>
+					<td>
+						@for (int i = 0; i < Model.Frutas.Count; i++)
+						{
+							<div>
+								<label>@Model.Frutas[i].NombreFruta:</label>
+								<input type="hidden" name="Frutas[@i].NombreFruta"
+									   value="@Model.Frutas[i].NombreFruta" />
+								<input type="hidden" name="Frutas[@i].ValorFruta" value="@Model.Frutas[i].ValorFruta" />
+								<input type="number" name="Frutas[@i].CantidadFruta" />
+							</div>
+						}
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<div style="justify-content:center;display:flex">
+							<button type="submit" class="btn btn-primary">Enviar</button>
+							<button type="reset" class="btn btn-warning">Restablecer</button>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</form>
+</div>
