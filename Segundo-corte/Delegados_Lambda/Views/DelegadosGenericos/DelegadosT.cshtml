@@ -1,0 +1,22 @@
+﻿@model Delegados_Lambda.Models.ModeloNumeros
+<div class="mx-auto" style="width:40%">
+	<form asp-controller="DelegadosGenericos" asp-action="CalcularProducto">
+		<fieldset class="form-group border p-3">
+			<legend style="text-align:center">Delegados Genericos T</legend>
+			<hr />
+			<div class="mb-4">
+				<label>Digite primer número:</label>
+				<input type="text" asp-for="primero" name="primero" placeholder="Digite primer número" />
+			</div>
+			<div class="mb-4">
+				<label>Digite segundo número:</label>
+				<input type="text" asp-for="segundo" name="segundo"
+					   placeholder="Digite segundo número" />
+			</div>
+			<div style="justify-content:center;display:flex">
+				<button type="submit">Producto</button>
+			</div>
+		</fieldset>
+	</form>
+	<h3 style="text-align:center"><strong>El producto es:@ViewBag.Producto</strong></h3>
+</div>

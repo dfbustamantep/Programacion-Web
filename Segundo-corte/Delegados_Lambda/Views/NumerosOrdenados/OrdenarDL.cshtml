@@ -1,0 +1,45 @@
+﻿<div class="mx-auto" style="width:40%">
+	<form asp-controller="NumerosOrdenados" asp-action="AdicionarNuevoNumero">
+		<fieldset class="form-group border p-3">
+			<legend style="text-align:center">Numeros Originales/Ordenados</legend><hr />
+
+			<div class="mb-4">
+				<label>Digite número:</label>
+				<input type="text" id="Numero" name="Numero" placeholder="Digite numero"/>
+			</div>
+
+			<div style="justify-content:center;display:flex">
+				<button type="submit">Ver</button>
+			</div>
+		</fieldset>
+	</form>
+
+	@if(ViewBag.Originales != null)
+	{
+		<table class="table table-bordered">
+			<thead>
+				<tr>
+					<th>Originales</th>
+					<th>Ordenados</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>
+						@foreach (int numero in @ViewBag.Originales)
+						{
+							<p>@numero</p>
+						}
+					</td>
+					<td>
+						@foreach (int numero in @ViewBag.NumerosOrdenados)
+						{
+							<p>@numero</p>
+						}
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	
+	}
+</div>

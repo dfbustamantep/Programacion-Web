@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE624D7-2274-4DA9-9A9E-C164963A5762}|Delegados_Lambda.csproj|c:\\users\\vtdan\\source\\repos\\delegados_lambda\\views\\delegadosgenericos\\delegadost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FE624D7-2274-4DA9-9A9E-C164963A5762}|Delegados_Lambda.csproj|solutionrelative:views\\delegadosgenericos\\delegadost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE624D7-2274-4DA9-9A9E-C164963A5762}|Delegados_Lambda.csproj|c:\\users\\vtdan\\source\\repos\\delegados_lambda\\models\\modelonumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE624D7-2274-4DA9-9A9E-C164963A5762}|Delegados_Lambda.csproj|solutionrelative:models\\modelonumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE624D7-2274-4DA9-9A9E-C164963A5762}|Delegados_Lambda.csproj|c:\\users\\vtdan\\source\\repos\\delegados_lambda\\controllers\\delegadosgenericoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE624D7-2274-4DA9-9A9E-C164963A5762}|Delegados_Lambda.csproj|solutionrelative:controllers\\delegadosgenericoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DelegadosT.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\Views\\DelegadosGenericos\\DelegadosT.cshtml",
+              "RelativeDocumentMoniker": "Views\\DelegadosGenericos\\DelegadosT.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\Views\\DelegadosGenericos\\DelegadosT.cshtml",
+              "RelativeToolTip": "Views\\DelegadosGenericos\\DelegadosT.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T03:30:37.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DelegadosGenericosController.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\Controllers\\DelegadosGenericosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DelegadosGenericosController.cs",
+              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\Controllers\\DelegadosGenericosController.cs",
+              "RelativeToolTip": "Controllers\\DelegadosGenericosController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:18:53.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModeloNumeros.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\Models\\ModeloNumeros.cs",
+              "RelativeDocumentMoniker": "Models\\ModeloNumeros.cs",
+              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\Models\\ModeloNumeros.cs",
+              "RelativeToolTip": "Models\\ModeloNumeros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:17:56.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
