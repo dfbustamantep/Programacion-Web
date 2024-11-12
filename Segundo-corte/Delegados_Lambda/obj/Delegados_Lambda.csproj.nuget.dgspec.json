@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\Delegados_Lambda.csproj": {}
+    "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Delegados_Lambda\\Delegados_Lambda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\Delegados_Lambda.csproj": {
+    "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Delegados_Lambda\\Delegados_Lambda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\Delegados_Lambda.csproj",
+        "projectUniqueName": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Delegados_Lambda\\Delegados_Lambda.csproj",
         "projectName": "Delegados_Lambda",
-        "projectPath": "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\Delegados_Lambda.csproj",
+        "projectPath": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Delegados_Lambda\\Delegados_Lambda.csproj",
         "packagesPath": "C:\\Users\\vtdan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vtdan\\source\\repos\\Delegados_Lambda\\obj\\",
+        "outputPath": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Delegados_Lambda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
