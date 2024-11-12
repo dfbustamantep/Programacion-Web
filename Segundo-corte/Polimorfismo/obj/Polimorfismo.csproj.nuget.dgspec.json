@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Polimorfismo.csproj": {}
+    "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Polimorfismo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Polimorfismo.csproj": {
+    "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Polimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Polimorfismo.csproj",
+        "projectUniqueName": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Polimorfismo.csproj",
         "projectName": "Polimorfismo",
-        "projectPath": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Polimorfismo.csproj",
+        "projectPath": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Polimorfismo.csproj",
         "packagesPath": "C:\\Users\\vtdan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\obj\\",
+        "outputPath": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

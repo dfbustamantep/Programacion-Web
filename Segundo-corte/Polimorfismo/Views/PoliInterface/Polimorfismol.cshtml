@@ -1,0 +1,26 @@
+﻿@model ModeloPolimorfismo
+<div class="mx-auto" style="width:40%">
+	<form asp-controller="PoliInterface" asp-action="Polimorfismol" method="post">
+		<fieldset class="form-group border p-3">
+			<legend style="text-align:center">Polimorfismo con Interface</legend>
+			<hr />
+			<div class="mb-4">
+				<label for="primero">Digite primer número:</label>
+				<input type="number" id="primero" name="primero" asp-for="primero" required />
+			</div>
+			<div class="mb-4">
+				<label for="segundo">Digite segundo número:</label>
+				<input type="number" id="segundo" name="segundo" asp-for="segundo" required />
+			</div>
+			<div style="justify-content:center;display:flex">
+				<button type="submit" name="operacion" value="Suma">Suma</button>
+				<button type="submit" name="operacion" value="Resta">Resta</button>
+				<button type="submit" name="operacion" value="Multiplicacion">Multiplicacion</button>
+				<button type="submit" name="operacion" value="Division">Division</button>
+			</div>
+		</fieldset>
+	</form>
+	<fieldset style="text-align:center" class="form-group border p-3">
+		<h4>@Model.resultado</h4>
+	</fieldset>
+</div>

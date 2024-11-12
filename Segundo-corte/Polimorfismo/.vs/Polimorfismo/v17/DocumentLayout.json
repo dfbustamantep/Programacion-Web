@@ -1,42 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\",
+  "WorkspaceRootPath": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\source\\repos\\polimorfismo\\controllers\\poliherenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:controllers\\poliherenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\polimorfismo\\models\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:models\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\source\\repos\\polimorfismo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\polimorfismo\\controllers\\poliabstractacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:controllers\\poliabstractacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\polimorfismo\\views\\poliabstracta\\polimorfismoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:views\\poliabstracta\\polimorfismoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\polimorfismo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\source\\repos\\polimorfismo\\views\\poliherencia\\polimorfismoh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:views\\poliherencia\\polimorfismoh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\polimorfismo\\models\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:models\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\source\\repos\\polimorfismo\\models\\modeloplimorfismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:models\\modeloplimorfismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\polimorfismo\\models\\operacionabsatracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:models\\operacionabsatracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\source\\repos\\polimorfismo\\models\\menor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:models\\menor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\polimorfismo\\models\\modelofigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:models\\modelofigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\source\\repos\\polimorfismo\\models\\mayor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:models\\mayor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\source\\repos\\polimorfismo\\models\\potencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:models\\potencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\source\\repos\\polimorfismo\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\source\\repos\\polimorfismo\\models\\operacionherencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:models\\operacionherencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\polimorfismo\\views\\poliinterface\\polimorfismol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3ED69CAD-03A0-4AA5-8BE4-E7213981E79D}|Polimorfismo.csproj|solutionrelative:views\\poliinterface\\polimorfismol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,119 +50,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAACUAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAACWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T04:10:05.799Z",
+              "WhenOpened": "2024-11-12T17:46:00.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PolimorfismoH.cshtml",
-              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Views\\PoliHerencia\\PolimorfismoH.cshtml",
-              "RelativeDocumentMoniker": "Views\\PoliHerencia\\PolimorfismoH.cshtml",
-              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Views\\PoliHerencia\\PolimorfismoH.cshtml",
-              "RelativeToolTip": "Views\\PoliHerencia\\PolimorfismoH.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Title": "PolimorfismoA.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Views\\PoliAbstracta\\PolimorfismoA.cshtml",
+              "RelativeDocumentMoniker": "Views\\PoliAbstracta\\PolimorfismoA.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Views\\PoliAbstracta\\PolimorfismoA.cshtml",
+              "RelativeToolTip": "Views\\PoliAbstracta\\PolimorfismoA.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T04:06:58.415Z",
+              "WhenOpened": "2024-11-12T17:45:25.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PoliHerenciaController.cs",
-              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Controllers\\PoliHerenciaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PoliHerenciaController.cs",
-              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Controllers\\PoliHerenciaController.cs",
-              "RelativeToolTip": "Controllers\\PoliHerenciaController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAwCUAAAAFAAAA",
+              "DocumentIndex": 1,
+              "Title": "PoliAbstractaController.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Controllers\\PoliAbstractaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PoliAbstractaController.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Controllers\\PoliAbstractaController.cs",
+              "RelativeToolTip": "Controllers\\PoliAbstractaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T04:00:33.523Z",
+              "WhenOpened": "2024-11-12T17:40:54.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Menor.cs",
-              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\Menor.cs",
-              "RelativeDocumentMoniker": "Models\\Menor.cs",
-              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\Menor.cs",
-              "RelativeToolTip": "Models\\Menor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Models\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Models\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Models\\Triangulo.cs",
+              "RelativeToolTip": "Models\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T03:53:09.837Z",
+              "WhenOpened": "2024-11-12T17:34:33.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Models\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Models\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Models\\Rectangulo.cs",
+              "RelativeToolTip": "Models\\Rectangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:34:22.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Mayor.cs",
-              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\Mayor.cs",
-              "RelativeDocumentMoniker": "Models\\Mayor.cs",
-              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\Mayor.cs",
-              "RelativeToolTip": "Models\\Mayor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Title": "OperacionAbsatracta.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Models\\OperacionAbsatracta.cs",
+              "RelativeDocumentMoniker": "Models\\OperacionAbsatracta.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Models\\OperacionAbsatracta.cs",
+              "RelativeToolTip": "Models\\OperacionAbsatracta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T03:53:02.828Z",
+              "WhenOpened": "2024-11-12T17:34:06.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Potencia.cs",
-              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\Potencia.cs",
-              "RelativeDocumentMoniker": "Models\\Potencia.cs",
-              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\Potencia.cs",
-              "RelativeToolTip": "Models\\Potencia.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAQAAAA3AAAA",
+              "Title": "ModeloFigura.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Models\\ModeloFigura.cs",
+              "RelativeDocumentMoniker": "Models\\ModeloFigura.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Models\\ModeloFigura.cs",
+              "RelativeToolTip": "Models\\ModeloFigura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T03:52:53.501Z",
+              "WhenOpened": "2024-11-12T17:33:37.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\Producto.cs",
-              "RelativeToolTip": "Models\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T03:52:46.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OperacionHerencia.cs",
-              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\OperacionHerencia.cs",
-              "RelativeDocumentMoniker": "Models\\OperacionHerencia.cs",
-              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\OperacionHerencia.cs",
-              "RelativeToolTip": "Models\\OperacionHerencia.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T03:52:30.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ModeloPlimorfismo.cs",
-              "DocumentMoniker": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\ModeloPlimorfismo.cs",
-              "RelativeDocumentMoniker": "Models\\ModeloPlimorfismo.cs",
-              "ToolTip": "C:\\Users\\vtdan\\source\\repos\\Polimorfismo\\Models\\ModeloPlimorfismo.cs",
-              "RelativeToolTip": "Models\\ModeloPlimorfismo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T03:52:14.362Z",
+              "Title": "Polimorfismol.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Views\\PoliInterface\\Polimorfismol.cshtml",
+              "RelativeDocumentMoniker": "Views\\PoliInterface\\Polimorfismol.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\Polimorfismo\\Views\\PoliInterface\\Polimorfismol.cshtml",
+              "RelativeToolTip": "Views\\PoliInterface\\Polimorfismol.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T16:48:21.049Z",
               "EditorCaption": ""
             }
           ]
