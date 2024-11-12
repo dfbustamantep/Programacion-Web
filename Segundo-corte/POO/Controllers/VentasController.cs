@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using POO.Models;
+
 namespace POO.Controllers
 {
 	public class VentasController : Controller

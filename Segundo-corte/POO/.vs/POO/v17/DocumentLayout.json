@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\views\\ventas\\ventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:views\\ventas\\ventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\views\\constructores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:views\\constructores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\views\\frutas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:views\\frutas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\models\\frutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:models\\frutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\controllers\\frutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:controllers\\frutascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\models\\modeloventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:models\\modeloventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\models\\modelofrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:models\\modelofrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\views\\ventasmodelo\\ventasmodelo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:views\\ventasmodelo\\ventasmodelo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\controllers\\ventasmodelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:controllers\\ventasmodelocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\views\\ventas\\ventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:views\\ventas\\ventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\views\\constructores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:views\\constructores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\controllers\\constructorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:controllers\\constructorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\poo\\models\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B37CD6-3B5A-4D60-8693-97930AD034E7}|POO.csproj|solutionrelative:models\\caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +83,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Views\\Frutas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Frutas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Views\\Frutas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Frutas\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T03:35:09.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrutasController.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Controllers\\FrutasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FrutasController.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Controllers\\FrutasController.cs",
+              "RelativeToolTip": "Controllers\\FrutasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:31:56.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModeloFrutas.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\ModeloFrutas.cs",
+              "RelativeDocumentMoniker": "Models\\ModeloFrutas.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\ModeloFrutas.cs",
+              "RelativeToolTip": "Models\\ModeloFrutas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:16:43.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "Models\\Clientes.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\Clientes.cs",
+              "RelativeToolTip": "Models\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:16:26.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frutas.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\Frutas.cs",
+              "RelativeDocumentMoniker": "Models\\Frutas.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\Frutas.cs",
+              "RelativeToolTip": "Models\\Frutas.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:16:05.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VentasModeloController.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Controllers\\VentasModeloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentasModeloController.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Controllers\\VentasModeloController.cs",
+              "RelativeToolTip": "Controllers\\VentasModeloController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:53:42.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModeloVentas.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\ModeloVentas.cs",
+              "RelativeDocumentMoniker": "Models\\ModeloVentas.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\ModeloVentas.cs",
+              "RelativeToolTip": "Models\\ModeloVentas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:51:10.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Caja.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\Caja.cs",
+              "RelativeDocumentMoniker": "Models\\Caja.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\Caja.cs",
+              "RelativeToolTip": "Models\\Caja.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:37:35.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Ventas.cshtml",
               "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Views\\Ventas\\Ventas.cshtml",
               "RelativeDocumentMoniker": "Views\\Ventas\\Ventas.cshtml",
@@ -59,33 +199,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "VentasController.cs",
               "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Controllers\\VentasController.cs",
               "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
               "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Controllers\\VentasController.cs",
               "RelativeToolTip": "Controllers\\VentasController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T02:46:13.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Productos.cs",
               "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\Productos.cs",
               "RelativeDocumentMoniker": "Models\\Productos.cs",
               "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\Productos.cs",
               "RelativeToolTip": "Models\\Productos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T02:44:11.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwB8AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T03:54:25.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VentasModelo.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Views\\VentasModelo\\VentasModelo.cshtml",
+              "RelativeDocumentMoniker": "Views\\VentasModelo\\VentasModelo.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Views\\VentasModelo\\VentasModelo.cshtml",
+              "RelativeToolTip": "Views\\VentasModelo\\VentasModelo.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T02:01:42.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Empresa.cs",
               "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Models\\Empresa.cs",
               "RelativeDocumentMoniker": "Models\\Empresa.cs",
@@ -98,20 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-06T03:54:25.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Views\\Constructores\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Constructores\\Index.cshtml",
@@ -124,15 +277,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "ConstructoresController.cs",
               "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Controllers\\ConstructoresController.cs",
               "RelativeDocumentMoniker": "Controllers\\ConstructoresController.cs",
               "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\POO\\Controllers\\ConstructoresController.cs",
               "RelativeToolTip": "Controllers\\ConstructoresController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T03:42:20.431Z"
+              "WhenOpened": "2024-10-06T03:42:20.431Z",
+              "EditorCaption": ""
             }
           ]
         }
