@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login_Basico", "Login_Basico.csproj", "{B2118374-7EB8-4872-A5CF-57F58FCADF32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2118374-7EB8-4872-A5CF-57F58FCADF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2118374-7EB8-4872-A5CF-57F58FCADF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2118374-7EB8-4872-A5CF-57F58FCADF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2118374-7EB8-4872-A5CF-57F58FCADF32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4CB90F4-6B2E-46D5-A549-5F786EED2806}
+	EndGlobalSection
+EndGlobal
