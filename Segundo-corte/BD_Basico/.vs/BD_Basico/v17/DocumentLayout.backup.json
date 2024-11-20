@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\bd_basico\\data\\aplicacionbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|solutionrelative:data\\aplicacionbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\bd_basico\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\bd_basico\\views\\clientes\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|solutionrelative:views\\clientes\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\bd_basico\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\bd_basico\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\bd_basico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\bd_basico\\bd_basico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|solutionrelative:bd_basico.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\bd_basico\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|c:\\users\\vtdan\\documents\\programacion-web\\segundo-corte\\bd_basico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3194F2C9-F51A-4147-81E3-9C20F30B99A6}|BD_Basico.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T19:54:23.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Views\\Clientes\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Views\\Clientes\\Crear.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Crear.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T19:52:02.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T19:10:15.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:04:44.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AplicacionBDContext.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Data\\AplicacionBDContext.cs",
+              "RelativeDocumentMoniker": "Data\\AplicacionBDContext.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Data\\AplicacionBDContext.cs",
+              "RelativeToolTip": "Data\\AplicacionBDContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:57:12.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BD_Basico",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\BD_Basico.csproj",
+              "RelativeDocumentMoniker": "BD_Basico.csproj",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\BD_Basico.csproj",
+              "RelativeToolTip": "BD_Basico.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T18:56:30.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:55:18.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T18:53:04.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vtdan\\Documents\\Programacion-Web\\Segundo-corte\\BD_Basico\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:53:01.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿<!--model Para iterar la colceccion cliente dentro de un foreach-->
+@model IEnumerable<BD_Basico.Models.Cliente>
+<h1>Index</h1>
+<p>
+	<a asp-action="Crear">Nuevo Cliente</a>
+</p>
+<table class="table">
+	<thead>
+		<tr>
+			<th>@Html.DisplayNameFor(model => model.Nit)</th>
+			<th>@Html.DisplayNameFor(model => model.Empresa)</th>
+			<th>@Html.DisplayNameFor(model => model.Direccion)</th>
+			<th>@Html.DisplayNameFor(model => model.Telefono)</th>
+			<th>@Html.DisplayNameFor(model => model.Ciudad)</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@Html.DisplayFor(modelItem => item.Nit)</td>
+				<td>@Html.DisplayFor(modelItem => item.Empresa)</td>
+				<td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+				<td>@Html.DisplayFor(modelItem => item.Telefono)</td>
+				<td>@Html.DisplayFor(modelItem => item.Ciudad)</td>
+				<td>
+					<a asp-action="Editar" asp-route-id="@item.Nit">Editar</a> |
+					<a asp-action="Detalles" asp-route-id="@item.Nit">Detalles</a> |
+					<a asp-action="Eliminar" asp-route-id="@item.Nit">Eliminar</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
