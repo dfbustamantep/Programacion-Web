@@ -7,31 +7,34 @@ namespace BD_Basico.Controllers
 {
     public class ClientesController : Controller
     {
-        //instancia privada de solo lectura
+        //Instancia privada de solo lectura
         private readonly AplicacionBDContext contexto;
-        //Constructor
         public ClientesController(AplicacionBDContext context)
         {
-            contexto = context;
+            this.contexto = context;
         }
 
-        // GET: Clientes
-        //Realizara una tarea (Task) asincrona (asyn)
+        //Get Clientes
+        //REalizara una tarea asinccrona (asyn task)
         public async Task<IActionResult> Index()
         {
+            //Retornamos a la vista el listado de los clientes asincronicamente
             return View(await contexto.Clientes.ToListAsync());
         }
-        // GET: Clientes/Crear
+
+        //Get Clientes/Crear
+        //No recibe parametros pero retorna la vista
         public IActionResult Crear()
         {
             return View();
         }
-        //Funciuon crear que realiza una tarea asincrona que recibe como parametros el enlace de los campos del objeto cliente
-        // POST: Clientes/Crear
+
+
+        //Post Clientes/Crear
+        //Segunda funcion Crear que realiza una tartea asincrona que recibe como parametros el enlace de los campos del objeto cliente
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Crear([Bind("Nit,Empresa,Direccion,Telefono,Ciudad")]
-Cliente cliente)
+        public async Task<IActionResult> Crear([Bind("Nit,Empresa,Direccion,Telefono,Ciudad")] Cliente cliente)
         {
             if (ModelState.IsValid)
             {
@@ -41,5 +44,6 @@ Cliente cliente)
             }
             return View(cliente);
         }
+        
     }
 }
